@@ -4,6 +4,9 @@ import { StatusBar } from 'expo-status-bar';
 
 import escadas from '../../components/img/escadas.jpg'
 
+ // pare verificação do retorno na página utilizando o formulário,
+ // é preciso descomentar o código abaixo
+
 // import User from '../../components/User'
 
 
